@@ -1,0 +1,21 @@
+{
+    "name": "dackou/captcha",
+    "description": "dackou php captcha",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0",
+    "autoload": {
+        "psr-4": {
+            "Dack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dackou",
+            "email": "dackou@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
